@@ -3,9 +3,12 @@
 I'm a MERN and MEAN Stack developer. I am passionate about everything related to javascript.
 Technologies I enjoy working on includes react, angular, css, nodejs, mongodb and docker. My favourite IDE is Webstorm.
 
-I love talking to people, making new friends.
+I love talking to people, making new friends. If you would also like to connect with me then follow me [FollowMeOnTwitter!](https://twitter.com/bijay_ps)
+or connect with me on LinkedIn [myLinkedIn!](https://www.linkedin.com/in/bijay-prakash-singh/)
 
 When I am not coding am either reading a book :books: or binge watching some series :smiley:
+
+If you want to glimpse what's going on inside my brain, then take a look at my blog [litthoughts!](https://litthoughts.in/)
 
 
 <!--
