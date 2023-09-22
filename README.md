@@ -1,14 +1,12 @@
 # Hi :wave:, I'm Bijay :man_technologist:
 
 I'm a MERN and MEAN Stack developer. I am passionate about everything related to javascript.
-Technologies I enjoy working on includes react, angular, css, nodejs, mongodb and docker. My favourite IDE is Webstorm.
+Technologies I enjoy working on include react, angular, CSS, nodejs, MongoDB and docker. My favourite IDE is Webstorm.
 
-I love talking to people, making new friends. If you would also like to connect with me then follow me [Twitter](https://twitter.com/bijay_ps)
+I love talking to people and making new friends. If you would also like to connect with me then follow me [on Twitter](https://twitter.com/bijay_ps)
 or connect with me on [LinkedIn](https://www.linkedin.com/in/bijay-prakash-singh/)
 
-When I am not coding am either reading a book :books: or binge watching some series :smiley:
-
-If you want to glimpse what's going on inside my brain, then take a look at my blog [litthoughts](https://litthoughts.in/)
+When I am not coding am either reading a book :books: or binge-watching some series :smiley:
 
 
 <!--
